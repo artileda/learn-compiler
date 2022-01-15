@@ -1,4 +1,4 @@
 (executable
  (public_name gwen)
- (name main)
+ (name gwen)
  (libraries gwen cmdliner alcotest))
