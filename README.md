@@ -23,7 +23,8 @@ That is i think, fun fact OCaml had stream data type but i had no idea how to us
 
 ## Content
 
-- 0. Project Structure
+- [0. Project Structure](00-project-structure/README.md)
+- [1. What is Compiler](01-what-is-compiler/README.md)
 
 ## License
 

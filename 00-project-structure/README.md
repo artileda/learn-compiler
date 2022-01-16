@@ -26,8 +26,6 @@ To be honest, in `bin` folder w'll meet with `main.ml` file, i kind not like it 
 To run it, `dune build bin/gwen.ml` then `dune exec bin/gwen.exe` ( there a way to use `dune run` but i forgor)
 
 
-> WIP : Listen, I bit lazy and sleepy, maybe wanna sleep. if you dont mind to busy, please read those reference or what i already write on root repository [README.md](../README.md) that could be helpful, if not that fine. Running , lazy ,cry is fine but dont give up.
-
 ## Reference
 
 - [Starting an OCaml app project using Dune, Bobby Priambodo](https://medium.com/@bobbypriambodo/starting-an-ocaml-app-project-using-dune-d4f74e291de8)
