@@ -18,6 +18,7 @@ Here a coupled reference for advance topic or tutorial explaining bout compiler 
 - [Borreti, good to start code with Menhir](https://borretti.me/article/parsing-menhir-forth)
 - [Parsing: The Solved Problem That Isn't, first to good read for who didn't get what compiler do](https://tratt.net/laurie/blog/entries/parsing_the_solved_problem_that_isnt.html)
 - [Engineering a Compiler, this book is so thicc good for make you sleep and dream bout compiler](https://github.com/germanoa/compiladores/blob/master/doc/ebook/Engineering%20a%20Compiler%20-%202nd%20Edition%20-%20K.%20Cooper%2C%20L.%20Torczon%20(Morgan%20Kaufman%2C%202012).pdf)
+- [Compiler design and implementantion in OCaml and LLVM framework, Anh Nguyen](https://www.theseus.fi/bitstream/handle/10024/166119/Nguyen_Anh%20.pdf;jsessionid=550342BABE2B3746C75CE67368F3E031?sequence=2)
   
 That is i think, fun fact OCaml had stream data type but i had no idea how to use it maybe good for you to write parser from scratch.
 
